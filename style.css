@@ -91,8 +91,7 @@ html, body {
 }
 
 .logo {
-  max-width: 200px;
-  margin-bottom: 1rem;
+	width: 50%;
 }
 
 .coming-soon h1 {
